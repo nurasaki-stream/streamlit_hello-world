@@ -1,12 +1,4 @@
----
-title: Streamlit Hello-world
-emoji: 🚀
-colorFrom: gray
-colorTo: green
-sdk: streamlit
-sdk_version: 1.17.0
-app_file: app.py
-pinned: false
----
+# Stramlit - Hello World 
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+by [nurasaki](https://github.com/nurasaki/)
+[https://github.com/nurasaki/streamlit_hello-world](https://github.com/nurasaki/streamlit_hello-world)
