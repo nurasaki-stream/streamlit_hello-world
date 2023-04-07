@@ -27,5 +27,5 @@ Add Github repo (name=gh_repo)
 
 # Streamlit - Hello World 
 
-by [nurasaki](https://github.com/nurasaki/)
+by [nurasaki](https://github.com/nurasaki/)  
 [https://github.com/nurasaki/streamlit_hello-world](https://github.com/nurasaki/streamlit_hello-world)
