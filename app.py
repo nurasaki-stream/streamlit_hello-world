@@ -14,10 +14,8 @@ st.title("Hello World!")
 
 st.write("""
 
-My name is Nura (nurasaki)
-
-Contact:
-* nurasaki-streamlit@gmail.com
+My name is Nura (nurasaki) 
+nurasaki-streamlit@gmail.com
 
 Having recently completed my Applied Data Science degree at the Open University of Catalonia (February 2023), I am seeking to redirect my professional path towards a more technical role, specifically as a data scientist in the field of artificial intelligence.
 
