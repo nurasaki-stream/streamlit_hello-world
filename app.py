@@ -4,6 +4,8 @@
 import streamlit as st
 from PIL import Image
 
+print("Uep! Deploying APP")
+
 
 st.image(Image.open('images/4-star-ball.png'), width=64)
 st.title("Hello World!")
@@ -12,10 +14,12 @@ st.title("Hello World!")
 # with open(f'content/{j}.md', 'r') as f:
 #     st.markdown(f.read())
 
+
+
 st.write("""
 
 My name is Nura (nurasaki)  
-nurasaki-streamlit@gmail.com
+Contact: nurasaki-streamlit@gmail.com
 
 Having recently completed my Applied Data Science degree at the Open University of Catalonia (February 2023), I am seeking to redirect my professional path towards a more technical role, specifically as a data scientist in the field of artificial intelligence.
 
